@@ -1,0 +1,330 @@
+2026-09-16 23:13:52 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-16 23:13:52 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-16 23:13:52 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 22:54:02 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 22:54:02 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 22:54:02 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: BrowseEvent on Landing Page
+2026-09-17 22:54:02 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-17 22:54:02 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 22:54:02 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 22:55:24 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 22:55:24 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: BrowseEvent on Landing Page
+2026-09-17 22:55:24 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 22:59:27 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 22:59:27 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: BrowseEvent on Main Page
+2026-09-17 22:59:27 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 22:59:43 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 22:59:43 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: BrowseEvent on Main Page
+2026-09-17 22:59:43 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 23:15:55 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 23:15:55 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-17 23:15:55 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 23:18:03 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 23:18:03 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 23:18:03 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-17 23:18:03 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-17 23:18:03 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 23:18:03 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 23:21:48 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 23:21:48 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-17 23:21:48 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 23:23:12 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-17 23:23:12 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-17 23:23:12 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:18:35 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:18:35 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:18:35 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 16:18:35 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:18:35 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 16:18:35 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:22:01 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:22:01 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-22 16:22:01 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:27:21 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:27:21 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:27:21 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 16:27:21 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:27:21 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 16:27:21 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:27:56 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:27:56 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 16:27:56 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:35:00 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:35:00 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 16:35:00 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:37:00 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:37:00 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:37:00 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 16:37:00 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 16:37:00 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:37:00 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:39:48 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:39:48 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 16:39:48 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:44:29 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:44:29 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:44:29 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 16:44:29 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 16:44:29 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:44:29 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:49:00 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:49:00 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 16:49:00 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:49:01 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:49:01 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 16:49:01 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:50:30 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:50:30 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:50:30 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 16:50:30 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:50:30 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 16:50:30 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:53:53 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:53:53 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 16:53:53 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:55:08 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:55:08 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 16:55:08 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:57:28 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:57:28 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:57:28 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 16:57:28 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 16:57:28 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 16:57:28 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:02:12 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:02:12 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:02:12 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 17:02:12 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:02:12 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 17:02:12 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:06:46 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:06:46 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 17:06:46 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:13:45 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:13:45 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:13:45 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 17:13:45 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:13:45 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 17:13:45 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:13:46 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-22 17:17:23 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:17:23 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:17:23 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:17:23 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-22 17:17:23 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-22 17:17:23 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-22 17:17:23 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:17:23 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:17:23 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-22 17:17:27 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-22 17:17:27 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-24 21:12:06 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 21:12:06 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-24 21:12:06 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 21:12:12 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-24 21:17:40 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 21:17:40 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-24 21:17:40 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 21:17:42 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-24 21:29:22 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 21:29:22 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-24 21:29:22 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 21:29:24 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-24 23:32:06 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:32:06 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-24 23:32:06 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:32:08 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-24 23:38:12 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:38:12 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:38:12 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:38:12 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-24 23:38:12 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-24 23:38:12 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-24 23:38:12 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:38:12 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:38:12 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:38:13 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-24 23:38:14 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-24 23:43:32 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:43:32 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:43:32 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:43:32 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-24 23:43:32 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-24 23:43:32 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-24 23:43:32 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:43:32 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:43:32 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-24 23:43:35 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-24 23:43:35 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 14:01:57 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 14:01:57 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 14:01:57 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 14:01:59 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 14:01:59 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 14:01:59 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 14:19:23 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 14:19:23 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 14:19:23 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 14:19:25 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 14:19:25 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 14:19:25 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:28:11 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:28:11 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 16:28:11 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:28:13 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:28:14 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:28:14 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 16:28:14 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:28:15 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:32:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:32:26 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 16:32:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:32:27 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:32:28 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:32:28 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 16:32:28 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:32:29 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:34:09 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:34:09 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 16:34:09 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:34:10 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:37:58 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:37:58 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 16:37:58 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:38:00 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:38:02 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:38:02 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 16:38:02 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:38:03 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:42:03 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:42:03 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 16:42:03 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:42:04 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:44:02 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:44:02 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 16:44:02 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:44:03 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:47:35 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:47:35 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 16:47:35 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:47:36 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:47:47 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:47:47 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 16:47:47 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:47:47 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:50:59 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:50:59 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 16:50:59 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:51:00 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:51:02 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:51:02 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 16:51:02 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:51:03 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:57:22 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:57:22 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 16:57:22 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:57:23 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 16:57:25 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:57:25 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 16:57:25 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 16:57:26 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:05:56 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:05:56 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 17:05:56 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:05:57 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:08:27 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:08:27 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 17:08:27 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:08:28 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:09:47 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:09:47 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 17:09:47 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:09:48 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:11:38 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:11:38 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 17:11:38 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:11:39 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:13:00 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:13:00 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 17:13:00 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:13:01 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:13:25 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:13:25 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 17:13:25 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:13:27 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:13:28 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:13:28 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 17:13:28 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:13:29 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:19:37 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:19:37 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 17:19:37 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:19:38 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:19:39 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 17:20:07 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:20:07 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 17:20:07 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:20:09 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:20:10 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 17:20:10 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:20:10 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 17:20:10 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:20:11 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:21:51 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:21:51 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 17:21:51 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:21:52 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:23:01 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:23:01 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 17:23:01 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:23:02 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 17:23:04 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 17:23:04 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:23:04 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 17:23:04 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 17:23:05 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 20:51:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:51:26 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 20:51:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:51:28 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 20:51:30 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 20:51:30 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:51:30 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 20:51:30 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:51:31 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 20:55:04 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:55:04 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 20:55:04 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:55:06 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 20:55:07 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 20:55:07 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:55:07 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 20:55:07 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:55:08 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 20:57:51 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:57:51 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 20:57:51 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:57:53 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 20:57:54 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 20:57:54 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:57:54 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 20:57:54 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 20:57:55 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 21:06:00 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 21:06:00 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 21:06:00 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 21:06:02 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 21:06:04 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 21:06:04 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 21:06:04 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 21:06:04 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 21:06:05 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 21:07:42 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 21:07:42 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 21:07:42 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 21:07:43 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 21:07:45 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 21:07:45 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 21:07:45 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 21:07:45 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 21:07:46 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
