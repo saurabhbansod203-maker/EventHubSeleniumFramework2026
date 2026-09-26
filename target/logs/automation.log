@@ -328,3 +328,90 @@
 2026-09-25 21:07:45 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
 2026-09-25 21:07:45 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
 2026-09-25 21:07:46 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:22:48 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:22:48 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 23:22:48 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:22:49 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:22:51 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 23:22:51 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:22:51 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 23:22:51 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:22:52 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:24:24 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:24:24 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 23:24:24 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:24:25 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:24:52 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:24:52 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 23:24:52 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:24:53 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:24:55 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 23:24:55 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:24:55 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 23:24:55 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:24:56 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:27:31 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:27:31 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 23:27:31 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:27:32 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:27:34 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 23:27:34 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:27:34 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 23:27:34 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:27:35 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:45:22 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:45:22 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 23:45:22 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:45:24 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:45:26 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-25 23:45:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:45:26 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 23:45:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:45:27 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:51:22 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:51:22 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 23:51:22 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:51:23 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:51:34 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:51:34 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 23:51:34 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:51:35 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:54:20 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:54:20 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-25 23:54:20 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:54:22 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-25 23:54:32 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:54:32 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-25 23:54:32 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-25 23:54:33 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 00:03:15 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 00:03:15 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-26 00:03:15 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 00:03:16 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 00:03:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 00:03:26 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 00:03:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 00:03:27 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 00:07:42 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 00:07:42 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user is able add New Event
+2026-09-26 00:07:42 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 00:07:43 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 00:07:44 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-26 00:07:44 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 00:07:44 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 00:07:44 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 00:07:45 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 16:18:30 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:18:30 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 16:18:30 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:18:32 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 16:18:34 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-26 16:22:42 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:22:42 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 16:22:42 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:22:44 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 16:24:24 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:24:24 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 16:24:24 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:24:26 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 16:24:27 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.

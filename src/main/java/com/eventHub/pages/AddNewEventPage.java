@@ -1,7 +1,13 @@
 package com.eventHub.pages;
 
+import java.time.Duration;
+
 import org.openqa.selenium.By;
+import org.openqa.selenium.SearchContext;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class AddNewEventPage extends BasePage {
 
@@ -10,15 +16,15 @@ public class AddNewEventPage extends BasePage {
 	
 	private final By newEventTitle = By.xpath("//h2[text()='+ New Event']");
 	
-	private final By addTitle = By.id("#event-title-input");
+	private final By addTitle = By.cssSelector("#event-title-input");
 
 	private final By addDescription = By.xpath("//label[text()='Description']/following-sibling::textarea");
 
-	private final By categoryDropdown = By.id("#category");
+	private final By categoryDropdown = By.id("category");
 
-	private final By city = By.id("#city");
+	private final By city = By.id("city");
 	
-	private final By address = By.id("#venue");
+	private final By address = By.id("venue");
 	
 	private final By eventDateTime = By.xpath("//label[@for='event-date-&-time']/following-sibling::input");
 	
@@ -35,9 +41,14 @@ public class AddNewEventPage extends BasePage {
 	public AddNewEventPage(WebDriver driver)
 	{
 		super(driver);
+		this.driver=driver;
 		
 		
 	}
+	
+	
+	
+	
 
 	public void creatingNewEvent() {
 		
@@ -52,7 +63,7 @@ public class AddNewEventPage extends BasePage {
 	public void newEventTitleVisible() {
 		
 		
-	//	isDisplayed(newEventTitle);       // return true if text return 
+	  isDisplayed(newEventTitle);       // return true if text return 
 
 		
 	}
@@ -63,17 +74,18 @@ public class AddNewEventPage extends BasePage {
 	public void eventTitle(String title) {
 		
 		
-		click(addTitle);
-		sendKeys(addTitle, title);
+		/// Explicitly wait for the form input field to load before trying to type into it
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(addTitle));
+        
+        sendKeys(addTitle, title);
 		
-
 		
 	}
 	
 	public void eventDescription(String description) {
 		
 		
-		click(addDescription);
 		sendKeys(addDescription, description);
 		
 
