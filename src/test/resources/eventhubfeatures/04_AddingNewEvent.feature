@@ -18,9 +18,9 @@ But Cancel the booking to complete the sceanrio
 
 Examples:
 
-|Title      |            Description                                            | Category|City|Venue|EventDate&Time|Price|Total Seats|Image|
+|Title      |            Description                                            | Category|City      |Venue                                      | EventDate&Time|Price|Total Seats|Image|
 
-|New Year Party|  Welcome to new Year Party 2027!!! |Festival | Pune| Hyatt Hotel | 23/Sept/2026|300| 500|  Image.jpg         |
+|New Year Party|  Welcome to new Year Party 2027!!! |Workshop| Pune | Hyatt Hotel Mundhwa Pune | 2026-10-31T04:08 |300| 500|  Image.jpg         |
 
 
 

@@ -107,7 +107,6 @@ public class BasePage {  // BasePage Parent class
 		
 	}
 	
-	
 	// ==========================================
     // ENCAPSULATED UI ACTION WRAPPERS
     // ==========================================

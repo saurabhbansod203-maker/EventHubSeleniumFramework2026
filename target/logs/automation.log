@@ -415,3 +415,220 @@
 2026-09-26 16:24:24 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
 2026-09-26 16:24:26 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
 2026-09-26 16:24:27 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-26 16:43:30 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:43:30 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 16:43:30 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:43:32 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 16:47:27 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:47:27 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 16:47:27 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:47:28 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 16:53:10 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:53:10 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 16:53:10 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:53:11 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 16:54:00 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:54:00 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 16:54:00 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:54:01 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 16:55:38 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:55:38 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 16:55:38 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 16:55:39 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 16:55:40 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-26 17:13:32 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 17:13:32 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 17:13:32 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 17:13:33 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 17:15:52 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 17:15:52 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 17:15:52 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 17:15:53 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 22:42:49 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 22:42:49 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 22:42:49 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 22:42:51 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-26 22:51:52 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 22:51:52 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-26 22:51:52 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-26 22:51:53 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 20:05:10 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 20:05:10 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 20:05:10 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 20:05:12 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 20:14:45 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 20:14:45 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 20:14:45 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 20:14:46 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 20:14:48 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 20:23:19 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 20:23:19 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 20:23:19 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 20:23:20 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 20:31:38 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 20:31:38 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 20:31:38 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 20:31:40 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 20:31:41 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 20:38:36 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 20:38:36 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 20:38:36 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 20:38:38 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 20:38:39 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:36:07 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:36:07 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:36:07 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:36:12 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:36:13 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:37:15 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:37:15 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:37:15 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:37:16 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:37:18 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:40:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:40:26 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:40:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:40:27 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:40:28 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:40:30 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:41:48 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:41:48 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:41:48 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:41:49 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:41:51 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:41:52 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:45:29 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:45:29 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:45:29 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:45:30 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:45:32 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:45:33 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:46:21 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:46:21 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:46:21 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:46:23 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:46:24 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:46:25 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:49:38 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:49:38 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:49:38 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:49:39 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:49:40 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:49:42 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:51:09 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:51:09 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:51:09 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:51:10 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:51:12 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:51:13 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:54:20 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:54:20 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:54:20 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:54:21 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:54:23 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:54:24 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:54:57 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:54:57 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:54:57 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:54:58 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:55:00 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:55:01 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:55:39 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:55:39 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:55:39 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:55:40 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:55:42 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:55:43 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:56:18 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:56:18 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:56:18 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:56:19 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:56:20 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:56:22 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:57:25 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:57:25 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:57:25 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:57:27 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:57:30 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:57:31 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:58:05 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:58:05 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:58:05 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:58:06 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:58:09 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:58:10 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 21:59:37 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:59:37 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 21:59:37 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 21:59:38 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 21:59:40 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 21:59:42 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 22:05:28 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:05:28 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:05:28 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:05:30 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:05:31 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:05:32 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 22:07:32 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:07:32 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:07:32 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:07:33 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:07:36 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:07:37 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 22:08:20 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:08:20 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:08:20 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:08:21 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:08:23 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:08:24 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 22:08:47 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:08:47 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:08:47 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:08:48 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:08:50 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:08:51 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 22:10:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:10:26 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:10:26 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:10:27 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:10:29 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:10:30 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 22:11:40 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:11:40 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:11:40 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:11:42 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:11:43 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:11:45 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 22:25:37 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:25:37 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:25:37 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:25:38 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:25:40 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:27:55 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:27:55 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:27:55 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:27:57 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:27:58 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:28:13 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:28:13 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:28:13 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:28:15 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:28:16 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:34:45 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:34:45 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:34:45 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:34:46 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:34:48 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:34:49 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 22:37:23 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:37:23 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:37:23 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:37:25 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:37:26 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:37:27 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-27 22:40:48 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:40:48 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-27 22:40:48 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-27 22:40:49 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-27 22:40:51 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-27 22:40:52 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.

@@ -13,9 +13,9 @@ public class AddNewEvent {
 	private AddNewEventPage addNewEvent;
 
 	
-	
 	@Given("user clicks on Add New Event button")
 	public void user_clicks_on_add_new_event_button() {
+		
 		addNewEvent = pageObjectManager.getAddNewEvent();
 
 		addNewEvent.creatingNewEvent();
@@ -34,13 +34,20 @@ public class AddNewEvent {
 	public void when_user_add_and(String title, String discription, String category, String city, String venue,
 			String eventDateTime, String price, String totalSeats, String image) {
 
+		
+		
 		addNewEvent.eventTitle(title);
 		addNewEvent.eventDescription(discription);
-		addNewEvent.eventCatogory(category);
+	
+		// DropDown using select class 
+	  addNewEvent.eventCatogory(category);
+		
 		addNewEvent.eventCity(city);
+		
 		addNewEvent.eventAddress(venue);
 
 		addNewEvent.eventDateTime(eventDateTime);
+		
 		addNewEvent.eventPrice(price);
 		addNewEvent.eventSeat(totalSeats);
 
@@ -50,6 +57,7 @@ public class AddNewEvent {
 	@When("the user click on {string} button")
 	public void the_user_click_on_button(String string) {
 	  
+		addNewEvent.addNewEventButton();
 	}
 
 	@Then("user is able to see New Event added Message with Booking Ref")

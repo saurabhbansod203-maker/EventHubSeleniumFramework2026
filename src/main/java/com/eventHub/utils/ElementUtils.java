@@ -3,6 +3,8 @@ package com.eventHub.utils;
 import java.util.Set;
 
 import org.openqa.selenium.Alert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -19,10 +21,10 @@ public class ElementUtils {
 	// DROPDOWN UTILITIES
 	// ==========================================
 
-	public static void selectByVisibleText(WebElement element, String text)
+	public static void selectByVisibleText(WebElement categoryDropdown, String text)
 
 	{
-		Select select = new Select(element);
+		Select select = new Select(categoryDropdown);
 		select.selectByVisibleText(text);
 
 	}
@@ -72,7 +74,8 @@ public class ElementUtils {
 	}
 	
 	public static void defaultContent(WebDriver driver) {
-        driver.switchTo().defaultContent();
+        
+		driver.switchTo().defaultContent();
     }
 	
 	public static String acceptAlert(WebDriver driver) {
@@ -95,6 +98,34 @@ public class ElementUtils {
 	
 	
 	}
+	
+	
+	 /**
+     * Standardized architectural wrapper to reliably set native HTML5 datetime fields
+     * independent of browser locale or OS keyboard configurations.
+     */
+    public static void setDateTimeValue(WebDriver driver, By locator, String isoDateTime) {
+        try {
+        	
+        	// Resolve the By locator to a WebElement inside the utility method
+        	
+            WebElement element = driver.findElement(locator);
+            
+            JavascriptExecutor js = (JavascriptExecutor) driver;
+            
+            // Force the underlying HTML value attribute to update directly
+            
+            js.executeScript("arguments[0].value = arguments[1];", element, isoDateTime);
+            
+            // Trigger change event so any application state listeners register the input
+            
+            js.executeScript("arguments[0].dispatchEvent(new Event('change'));", element);
+            
+        } catch (Exception e) {
+            throw new RuntimeException("Failed to set HTML5 datetime value via JavaScript DOM injection", e);
+        }
+        
+    }
 	
 	
 	/**
