@@ -632,3 +632,347 @@
 2026-09-27 22:40:49 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
 2026-09-27 22:40:51 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
 2026-09-27 22:40:52 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:37:35 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:37:35 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:37:35 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:37:37 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:37:39 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:37:40 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:39:25 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:39:25 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:39:25 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:39:26 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:39:28 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:39:29 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:41:20 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:41:20 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:41:20 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:41:21 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:41:22 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:41:24 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:45:33 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:45:33 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:45:33 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:45:36 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:45:38 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:45:39 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:46:09 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:46:09 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:46:09 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:46:10 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:46:13 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:46:14 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:46:39 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:46:39 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:46:39 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:46:40 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:46:42 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:46:43 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:46:57 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:46:57 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:46:57 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:46:59 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:47:00 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:47:01 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:47:21 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:47:21 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:47:21 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:47:22 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:47:23 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:47:25 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:48:24 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:48:24 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:48:24 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:48:25 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:48:26 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:48:28 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:49:04 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:49:04 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:49:04 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:49:06 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:49:07 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:49:09 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:54:03 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:54:03 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:54:03 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:54:04 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:56:38 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:56:38 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:56:38 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:56:39 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:56:40 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:56:42 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:57:35 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:57:35 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:57:35 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:57:36 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:57:38 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:57:39 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 16:58:32 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:58:32 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 16:58:32 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 16:58:33 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 16:58:34 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 16:58:36 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 18:49:34 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 18:49:34 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 18:49:34 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 18:49:36 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 18:49:38 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 18:49:39 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 18:58:51 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 18:58:51 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 18:58:51 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 18:58:53 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 18:58:55 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 18:58:56 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 19:00:02 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 19:00:02 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 19:00:02 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 19:00:03 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 19:00:04 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 19:00:06 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 19:03:13 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 19:03:13 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 19:03:13 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 19:03:15 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 19:03:16 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 19:03:17 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 19:15:41 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 19:15:41 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 19:15:41 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 19:15:43 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 19:15:45 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 19:15:46 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 19:42:12 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 19:42:12 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 19:42:12 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 19:42:14 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 19:42:15 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 19:42:17 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 19:46:03 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 19:46:03 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 19:46:03 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 19:46:05 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 19:46:06 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 19:46:07 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 20:13:21 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 20:13:21 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 20:13:21 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 20:13:23 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 20:13:24 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 20:13:26 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 20:13:27 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: (//span[text()='New Year Party']//parent::td//following::td[@class='px-4 py-3.5']//following::button[@id='delete-event-btn'])[1]. Executing JavaScript click fallback.
+2026-09-28 20:15:32 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 20:15:32 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 20:15:32 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 20:15:33 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 20:15:35 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 20:15:36 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 20:15:37 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: (//span[text()='New Year Party']//parent::td//following::td[@class='px-4 py-3.5']//following::button[@id='delete-event-btn'])[1]. Executing JavaScript click fallback.
+2026-09-28 20:19:19 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 20:19:19 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 20:19:19 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 20:19:20 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 20:19:22 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 20:19:23 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 20:19:24 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: (//span[text()='New Year Party']//parent::td//following::td[@class='px-4 py-3.5']//following::button[@id='delete-event-btn'])[1]. Executing JavaScript click fallback.
+2026-09-28 22:13:21 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:13:21 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:13:21 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:13:24 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 22:13:26 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 22:13:28 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 22:13:29 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: (//span[text()='New Year Party']//parent::td//following::td[@class='px-4 py-3.5']//following::button[@id='delete-event-btn'])[1]. Executing JavaScript click fallback.
+2026-09-28 22:14:58 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:14:58 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:14:58 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:14:59 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 22:15:00 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 22:15:02 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 22:15:03 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: (//span[text()='New Year Party']//parent::td//following::td[@class='px-4 py-3.5']//following::button[@id='delete-event-btn'])[1]. Executing JavaScript click fallback.
+2026-09-28 22:21:01 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:21:01 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:21:01 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:21:02 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 22:21:04 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 22:21:05 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 22:21:06 [main] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: (//span[text()='New Year Party']//parent::td//following::td[@class='px-4 py-3.5']//following::button[@id='delete-event-btn'])[1]. Executing JavaScript click fallback.
+2026-09-28 22:24:07 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:07 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:07 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:07 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:07 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-28 22:24:07 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-28 22:24:07 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:24:07 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:07 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-28 22:24:07 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:07 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:07 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:09 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 22:24:09 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 22:24:09 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-28 22:24:09 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Successful login with valid credentials | STATUS: {}
+2026-09-28 22:24:09 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:11 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify user can browse available events | STATUS: {}
+2026-09-28 22:24:11 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:12 [TestNG-PoolService-4] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //div[@class='mt-12 flex justify-center']/a. Executing JavaScript click fallback.
+2026-09-28 22:24:12 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Book and cancel event tickets | STATUS: {}
+2026-09-28 22:24:12 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:24:13 [TestNG-PoolService-4] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: //button[text()='+ Add Event']. Executing JavaScript click fallback.
+2026-09-28 22:24:14 [TestNG-PoolService-4] WARN  com.eventHub.utils.LogUtils - Native click intercepted on By.xpath: (//span[text()='New Year Party']//parent::td//following::td[@class='px-4 py-3.5']//following::button[@id='delete-event-btn'])[1]. Executing JavaScript click fallback.
+2026-09-28 22:24:14 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-28 22:24:14 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:02 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:02 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:02 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:02 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:02 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-28 22:29:02 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:29:02 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:02 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-28 22:29:02 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-28 22:29:02 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:02 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:02 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:14 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify user can browse available events | STATUS: {}
+2026-09-28 22:29:14 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Successful login with valid credentials | STATUS: {}
+2026-09-28 22:29:14 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-28 22:29:14 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:14 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:14 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:29:14 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Book and cancel event tickets | STATUS: {}
+2026-09-28 22:29:14 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:32 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:32 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:32 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:32 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:32 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-28 22:34:32 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:34:32 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-28 22:34:32 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:32 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-28 22:34:32 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:32 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:32 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:33 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify user can browse available events | STATUS: {}
+2026-09-28 22:34:33 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Book and cancel event tickets | STATUS: {}
+2026-09-28 22:34:33 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:33 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:33 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-28 22:34:33 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:34:34 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Successful login with valid credentials | STATUS: {}
+2026-09-28 22:34:34 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:29 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:29 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:29 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:29 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:29 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-28 22:36:29 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-28 22:36:29 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:29 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-28 22:36:29 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:36:29 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:29 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:29 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:30 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-28 22:36:30 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:30 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify user can browse available events | STATUS: {}
+2026-09-28 22:36:30 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:31 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Successful login with valid credentials | STATUS: {}
+2026-09-28 22:36:31 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:36:31 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Book and cancel event tickets | STATUS: {}
+2026-09-28 22:36:31 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:05 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:05 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:05 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:05 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:05 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-28 22:42:05 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-28 22:42:05 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-28 22:42:05 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:42:05 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:05 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:05 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:05 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:07 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-28 22:42:07 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:07 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Successful login with valid credentials | STATUS: {}
+2026-09-28 22:42:07 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:07 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Book and cancel event tickets | STATUS: {}
+2026-09-28 22:42:07 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:42:07 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify user can browse available events | STATUS: {}
+2026-09-28 22:42:07 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:46:55 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:46:55 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:46:55 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:46:56 [main] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-28 22:46:56 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:51:06 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:51:06 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:51:06 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:51:07 [main] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-28 22:51:07 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:52:27 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:52:27 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-28 22:52:27 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-28 22:52:29 [main] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-28 22:52:29 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:32:47 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:32:47 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-30 18:32:47 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:32:49 [main] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-30 18:32:49 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:41:34 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:41:34 [main] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-30 18:41:34 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:41:41 [main] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-30 18:41:53 [main] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-30 18:41:53 [main] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:13 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:13 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:13 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:13 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:13 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-30 18:42:13 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-30 18:42:13 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-30 18:42:13 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-30 18:42:13 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:13 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:13 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:13 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:16 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-30 18:42:17 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Successful login with valid credentials | STATUS: {}
+2026-09-30 18:42:17 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:17 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-30 18:42:18 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-30 18:42:19 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Book and cancel event tickets | STATUS: {}
+2026-09-30 18:42:19 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:19 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify user can browse available events | STATUS: {}
+2026-09-30 18:42:19 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 18:42:27 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-30 18:42:27 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:16 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:16 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:16 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:16 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:16 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify that user can able to add all given details for new Event
+2026-09-30 19:17:16 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Book and cancel event tickets
+2026-09-30 19:17:16 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Successful login with valid credentials
+2026-09-30 19:17:16 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   STARTING SCENARIO: Verify user can browse available events
+2026-09-30 19:17:16 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:16 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:16 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:16 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:19 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-30 19:17:20 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-30 19:17:20 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Successful login with valid credentials | STATUS: {}
+2026-09-30 19:17:20 [TestNG-PoolService-1] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:21 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - Executing composite login for pre-condition using: samwilson33@gmail.com
+2026-09-30 19:17:21 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify user can browse available events | STATUS: {}
+2026-09-30 19:17:21 [TestNG-PoolService-2] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:22 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Verify that user can able to add all given details for new Event | STATUS: {}
+2026-09-30 19:17:22 [TestNG-PoolService-4] INFO  com.eventHub.utils.LogUtils - ==========================================================================
+2026-09-30 19:17:22 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils -   FINISHED SCENARIO: Book and cancel event tickets | STATUS: {}
+2026-09-30 19:17:22 [TestNG-PoolService-3] INFO  com.eventHub.utils.LogUtils - ==========================================================================

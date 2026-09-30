@@ -84,8 +84,8 @@ public class LogUtils {
     /**
      * Prints a visually distinct footer at the end of a scenario.
      */
-    public static void endScenario(String scenarioName, String status) {
-        logger.info("  FINISHED SCENARIO: {} | STATUS: {}", scenarioName, status);
+    public static void endScenario(String scenarioName) {
+        logger.info("  FINISHED SCENARIO: {} | STATUS: {}", scenarioName);
         logger.info("==========================================================================");
     }
 	

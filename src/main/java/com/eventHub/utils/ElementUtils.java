@@ -104,12 +104,12 @@ public class ElementUtils {
      * Standardized architectural wrapper to reliably set native HTML5 datetime fields
      * independent of browser locale or OS keyboard configurations.
      */
-    public static void setDateTimeValue(WebDriver driver, By locator, String isoDateTime) {
+    public static void setDateTimeValue(WebDriver driver, WebElement element, String isoDateTime) {
         try {
         	
         	// Resolve the By locator to a WebElement inside the utility method
         	
-            WebElement element = driver.findElement(locator);
+          //  WebElement element = driver.findElement(locator);
             
             JavascriptExecutor js = (JavascriptExecutor) driver;
             

@@ -35,7 +35,6 @@ public class AddNewEvent {
 			String eventDateTime, String price, String totalSeats, String image) {
 
 		
-		
 		addNewEvent.eventTitle(title);
 		addNewEvent.eventDescription(discription);
 	
@@ -60,19 +59,13 @@ public class AddNewEvent {
 		addNewEvent.addNewEventButton();
 	}
 
-	@Then("user is able to see New Event added Message with Booking Ref")
-	public void user_is_able_to_see_new_event_added_message_with_booking_ref() {
-	  
-	}
-
-	@Then("Click on view my booking to see the booking details")
-	public void click_on_view_my_booking_to_see_the_booking_details() {
-	  
-	}
 
 	@Then("Cancel the booking to complete the sceanrio")
 	public void cancel_the_booking_to_complete_the_sceanrio() {
-	   
+		
+		addNewEvent.deleteEvent();
+		
+		
 	}
 
 

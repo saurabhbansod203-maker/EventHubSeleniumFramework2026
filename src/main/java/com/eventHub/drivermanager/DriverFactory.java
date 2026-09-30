@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.safari.SafariDriver;
 
 //This class is created to to create new driver instances 
 //or return the driver instance if already available from getDriver() method
@@ -32,10 +33,11 @@ public class DriverFactory {
      * 
      * @param browser Browser name passed from config.properties or CLI (-Dbrowser=chrome)
      * @return Thread-safe WebDriver instance
+	 * @throws InterruptedException 
      */
 	
 
-	public  static WebDriver initDriver(String browser) // Opening the browser & returning the object of driver
+	public  static WebDriver initDriver(String browser) throws InterruptedException // Opening the browser & returning the object of driver
 	{
 	// WHY STRING SANITIZATION:
     // Null checks and lowercase normalization prevent NullPointerExceptions 
@@ -61,10 +63,12 @@ public class DriverFactory {
 	  break;
 	  
 	case "firefox":
+		
 		tlDriver.set(new FirefoxDriver());
 		break;
 		
 	case "edge":
+		
 		tlDriver.set(new EdgeDriver());
 		break;
 		
@@ -78,7 +82,7 @@ public class DriverFactory {
 		
 	}
 	// Apply global driver behaviors
-	
+	Thread.sleep(1000);
 	getDriver().manage().deleteAllCookies();
     getDriver().manage().window().maximize();
     getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(10));

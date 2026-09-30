@@ -26,10 +26,11 @@ public class ApplicationHooks {
 	/**
 	 * Executes before every Cucumber scenario. Reads dynamic execution parameters
 	 * and launches an isolated browser session.
+	 * @throws InterruptedException 
 	 */
 
 	@Before(order = 0)
-	public void setup(Scenario scenario) {
+	public void setup(Scenario scenario) throws InterruptedException {
 		
 		//System.out.println("LOG [INFO]: Starting Scenario -> " + scenario.getName());
 
@@ -85,18 +86,18 @@ public class ApplicationHooks {
 	 * Ensures browser processes are closed and ThreadLocal memory references are
 	 * purged.
 	 */
-//	@After(order=0)
-//	public void tearDown(Scenario scenario) {
-//
-//		System.out.println(
-//				"LOG [INFO]: Terminating Scenario -> " + scenario.getName() + " | Status: " + scenario.getStatus());
-  //    LogUtils.endScenario(scenario.getName());
-//		// WHY QUIT DRIVER HERE:
-//		// Prevents orphaned browser processes (chromedriver.exe) from lingering in
-//		// background memory.
-//
-//		DriverFactory.quitDriver();
-//
-//	}
+	@After(order=0)
+	public void tearDown(Scenario scenario) {
+
+		System.out.println(
+				"LOG [INFO]: Terminating Scenario -> " + scenario.getName() + " | Status: " + scenario.getStatus());
+      LogUtils.endScenario(scenario.getName());
+		// WHY QUIT DRIVER HERE:
+		// Prevents orphaned browser processes (chromedriver.exe) from lingering in
+		// background memory.
+
+		DriverFactory.quitDriver();
+
+	}
 
 }

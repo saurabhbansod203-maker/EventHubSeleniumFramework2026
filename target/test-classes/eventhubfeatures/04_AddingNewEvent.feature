@@ -12,15 +12,13 @@ Given user clicks on Add New Event button
 And the user is on Event Page
 And when user add "<Title>", "<Description>","<Category>", "<City>", "<Venue>", "<EventDate&Time>","<Price>","<Total Seats>",and "<Image>"
 When the user click on "Add Event" button
-Then user is able to see New Event added Message with Booking Ref
-And Click on view my booking to see the booking details
-But Cancel the booking to complete the sceanrio
+Then Cancel the booking to complete the sceanrio
 
 Examples:
 
-|Title      |            Description                                            | Category|City      |Venue                                      | EventDate&Time|Price|Total Seats|Image|
+|Title      |            Description                                            | Category|City      |Venue                                      | EventDate|Price|Total Seats|Image|
 
-|New Year Party|  Welcome to new Year Party 2027!!! |Workshop| Pune | Hyatt Hotel Mundhwa Pune | 2026-10-31T04:08 |300| 500|  Image.jpg         |
+|New Year Party|  Welcome to new Year Party 2027!!! |Workshop| Pune | Hyatt Hotel Mundhwa Pune |2026-10-31|300| 500|  Image.jpg         |
 
 
 

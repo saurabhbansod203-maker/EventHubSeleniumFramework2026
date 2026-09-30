@@ -1,9 +1,8 @@
 package com.eventHub.pages;
 
-
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
@@ -29,6 +28,8 @@ public class AddNewEventPage extends BasePage {
 
 	private final By eventDateTime = By.xpath("//label[@for='event-date-&-time']/following-sibling::input");
 
+	//private final WebElement eventDateTime = driver.findElement(By.xpath("//label[@for='event-date-&-time']/following-sibling::input"));
+	
 	private final By eventPrice = By.xpath("//div[@class='flex flex-col gap-1 ']//input[@id='price-($)']");
 
 	private final By eventSeats = By.cssSelector("label+ input#total-seats");
@@ -36,7 +37,11 @@ public class AddNewEventPage extends BasePage {
 //	private final By imageUpload = By.xpath("//label[text()='Image URL (optional)']/following-sibling::input");
 
 	private final By addEventButton = By.xpath("//button[text()='+ Add Event']");
+	
+	private final By deleteEventButton = By.xpath("(//button[@id='delete-event-btn'])[1]");
 
+	private final By eventDeleteAlertbutton = By.id("confirm-dialog-yes");
+	
 	public AddNewEventPage(WebDriver driver) {
 		super(driver);
 		this.driver = driver;
@@ -97,11 +102,18 @@ public class AddNewEventPage extends BasePage {
 	}
 
 	public void eventDateTime(String dateTime) {
-
 		
-		ElementUtils.setDateTimeValue(driver,eventDateTime,dateTime);
+	waitforVisibility(eventDateTime);
+			
+    WebElement dateT = driver.findElement((eventDateTime));
+   
+	 ElementUtils.setDateTimeValue(driver,dateT,dateTime);
 		
-		//sendKeys(eventDateTime, dateTime);
+	 dateT.sendKeys("30102026");
+	 dateT.sendKeys(Keys.TAB);
+	 dateT.sendKeys("11:30PM");
+	
+	 //sendKeys(eventDateTime, dateTime);
 	
 
 	}
@@ -124,5 +136,18 @@ public class AddNewEventPage extends BasePage {
 		
 
 	}
+	
+	public void deleteEvent() {
+
+		safeClick(deleteEventButton);
+		waitforVisibility(eventDeleteAlertbutton);
+		click(eventDeleteAlertbutton);
+
+		
+
+	}
+	
+	
+
 
 }
