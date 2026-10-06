@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-06T21:43:22 IST" name="Surefire suite" finished-at="2026-10-06T21:43:37 IST" duration-ms="15462">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.eventHub.runners.EventHubRunner@7fc229ab]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2026-10-06T21:43:22 IST" name="Surefire test" finished-at="2026-10-06T21:43:37 IST" duration-ms="15462">
+      <class name="com.eventHub.runners.EventHubRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.eventHub.runners.EventHubRunner@7fc229ab]" started-at="2026-10-06T21:43:22 IST" name="setUpClass" finished-at="2026-10-06T21:43:22 IST" duration-ms="152" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@53f48368]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.eventHub.runners.EventHubRunner@7fc229ab]" started-at="2026-10-06T21:43:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-10-06T21:43:27 IST" duration-ms="5132" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Book and cancel event tickets"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Ticket Booking and Management"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.eventHub.runners.EventHubRunner@7fc229ab]" started-at="2026-10-06T21:43:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-10-06T21:43:27 IST" duration-ms="5505" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful login with valid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User Authentication"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.eventHub.runners.EventHubRunner@7fc229ab]" started-at="2026-10-06T21:43:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-10-06T21:43:27 IST" duration-ms="5491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify user can browse available events"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User Browse Events"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.eventHub.runners.EventHubRunner@7fc229ab]" started-at="2026-10-06T21:43:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-10-06T21:43:37 IST" duration-ms="15281" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user can able to add all given details for new Event"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["EventHub Add New Event Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for presence of element found by By.xpath: (//button[@id='delete-event-btn'])[1]
+(tried for 10 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '25'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 157.0, moz:accessibilityChecks: false, moz:buildID: 20260924084938, moz:geckodriverVersion: 0.37.1, moz:headless: false, moz:platformVersion: 25.6.0, moz:processID: 33348, moz:profile: /var/folders/jh/x7mfmvrd76z..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 8b6eff55-c815-4423-b4ed-c6f347dca764]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element found by By.xpath: (//button[@id='delete-event-btn'])[1]
+(tried for 10 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '25'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 157.0, moz:accessibilityChecks: false, moz:buildID: 20260924084938, moz:geckodriverVersion: 0.37.1, moz:headless: false, moz:platformVersion: 25.6.0, moz:processID: 33348, moz:profile: /var/folders/jh/x7mfmvrd76z..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 8b6eff55-c815-4423-b4ed-c6f347dca764
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:234)
+at com.eventHub.pages.BasePage.safeClick(BasePage.java:226)
+at com.eventHub.pages.AddNewEventPage.deleteEvent(AddNewEventPage.java:142)
+at com.eventHub.stepdefinitions.AddNewEvent.cancel_the_booking_to_complete_the_sceanrio(AddNewEvent.java:66)
+at ✽.Cancel the booking to complete the sceanrio(file:///Users/saurabhbansod/Desktop/Asus%20Computer/Eclipse%20Workspace%202020-09/ATT28MarchBDDCucumber/src/test/resources/eventhubfeatures/04_AddingNewEvent.feature:15)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.eventHub.runners.EventHubRunner@7fc229ab]" started-at="2026-10-06T21:43:37 IST" name="tearDownClass" finished-at="2026-10-06T21:43:37 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.eventHub.runners.EventHubRunner -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
